@@ -1,10 +1,13 @@
 
 # CCC-method
 
-Code repository for the paper:
+Code repository for the papers:
 
 **Xia, J., Zhang, W., Ferguson, A. C., Mena, K. D., Özgökmen, T. M., & Solo-Gabriele, H. M. (2020). Use of chemical concentration changes in coastal sediments to compute oil exposure dates. *Environmental Pollution*, 259, 113858.**
 [https://doi.org/10.1016/j.envpol.2019.113858](https://doi.org/10.1016/j.envpol.2019.113858)
+
+**Xia, J., Zhang, W., Ferguson, A. C., Mena, K. D., Özgökmen, T. M., & Solo-Gabriele, H. M. (2021). A novel method to evaluate chemical concentrations in muddy and sandy coastal regions before and after oil exposures. Environmental Pollution, 269, 116102.**
+[https://doi.org/10.1016/j.envpol.2020.116102](https://doi.org/10.1016/j.envpol.2020.116102)
 
 ---
 
